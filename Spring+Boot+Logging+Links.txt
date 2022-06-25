@@ -1,0 +1,7 @@
+YouTube:
+	Spring Boot Logging Basics: https://www.youtube.com/watch?v=ifIlljI4FZY
+	Spring Boot Logback Rolling File Example: https://www.youtube.com/watch?v=ZmTNAKuTyVg
+	How to use Log4j2 in Spring Boot: https://www.youtube.com/watch?v=S9USRSEyWU0
+
+Tutorials:
+	Spring Boot Logging Basics: https://www.codejava.net/frameworks/spring-boot/spring-boot-logging-basics
